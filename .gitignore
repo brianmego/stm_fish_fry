@@ -1,0 +1,25 @@
+syntax: glob
+*~
+*.swp
+*.pyc
+*.pyo
+.DS_Store
+.nose
+*.egg-info
+*.bak
+*$py.class
+*.orig
+build
+*.ts
+.*.make
+.*.unpack
+.*.fetch
+.*.install
+.*.config
+.*.patch
+submakes/*.mak
+env.sh
+dists
+build
+MANIFEST.sha1
+config.m4
